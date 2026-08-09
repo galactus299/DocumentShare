@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Document Editor",
+  "description": "A lightweight document editor with document creation, rich text formatting, file imports, user mock auth, and document sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
